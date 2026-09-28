@@ -2,38 +2,35 @@
 
 Maak transcripties op je eigen Mac. Je opnames en teksten blijven lokaal.
 
-## Download versie 1.10.1
+## Download versie 1.10.2
 
-### [⬇ Download LBBR Transcript 1.10.1](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/latest/download/LBBR-Transcript-1.10.1-macOS-Apple-Silicon.zip)
+### [⬇ Download LBBR Transcript 1.10.2](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/latest/download/LBBR-Transcript-1.10.2-macOS-Apple-Silicon.zip)
 
 Je hebt geen GitHub-account nodig. Deze link mag je doorsturen.
 
 1. Sluit de bestaande app. Download en open de ZIP.
 2. Sleep **LBBR Transcript.app** naar **Apps/Programma’s** en kies **Vervang**.
-3. Open de app. Alleen bij het eerste gebruik is het transcriptiemodel nodig; verwijder bestaande modellen of je bibliotheek niet.
+3. Open de app. Je bibliotheek, transcripties en taalmodel blijven behouden.
 
 Voor Mac met Apple Silicon (M1 of nieuwer), macOS 14 of nieuwer. Niet geschikt voor Intel-Macs.
 
-Versie 1.10.1 is ondertekend met Developer ID van Sander Lubberhuizen en door Apple genotariseerd. macOS accepteert de app als Notarized Developer ID.
+Versie 1.10.2 is ondertekend met Developer ID van Sander Lubberhuizen en door Apple genotariseerd.
 
-## Herstel en verbeteringen in 1.10.1
+## Nieuw in 1.10.2
 
-- Herstelt de opnameoverdracht die in 1.10.0 de transcriptie blokkeerde.
-- Vernieuwd opnamevenster met timer, geluidsmeters en duidelijke stopknop.
-- Vier zichtbare verwerkingsstappen tijdens het transcriberen.
-- **Open Dictafoon** bij het toevoegen van opnames. Dictafoon opent apart; gebruik Finder als rechtstreeks slepen niet lukt.
-- Opnames die nog in de tijdelijke opslag staan, kunnen opnieuw worden toegevoegd.
+- **Opname toevoegen** en **Opname starten** staan steeds bovenaan de linkerzijbalk.
+- Tijdens opnemen zie je **Opname loopt** met een actieve timer.
+- Timer, microfoonmeter, Mac-geluidsmeter en **Stoppen en bewaren** blijven beschikbaar bij transcripties en projecten.
+- Een eerdere bewaarde opname krijgt een aparte melding; die wordt niet meer als actieve opname getoond.
 
-Opnemen blijft Mac-geluid en microfoon combineren, zonder bronkeuze of echoverwerking. Er is geen samenvattingsfunctie of samenvatmodel. **Opname toevoegen** en **Opname starten** staan op het beginscherm; de zijbalk is voor zoeken, projecten en bestaande opnames.
+De app neemt Mac-geluid en microfoon samen op, zonder bronkeuze of echoverwerking. Er is geen samenvatfunctie of samenvatmodel.
 
 ## Updates en bestaande gegevens
 
-Installeer 1.10.1 één keer handmatig. De oude updatesleutel is niet meer beschikbaar. Vanaf 1.10.1 gebruikt de app een nieuwe ondertekende updatefeed voor volgende versies via **Zoeken naar updates**.
-
-Vervang alleen de app. Je bibliotheek, transcripties en gedownloade taalmodel hoeven niet te worden verwijderd.
+Gebruik in versie 1.10.1 **Zoeken naar updates** om 1.10.2 te installeren. Je hoeft geen ZIP te downloaden. Vervang alleen de app als je de directe download gebruikt.
 
 ## Privacy
 
-Audio en transcripties worden op je eigen Mac verwerkt. De app maakt verbinding voor het downloaden van het transcriptiemodel en voor het controleren en downloaden van updates. Deze repository bevat downloads en gebruikersinformatie; de losse broncode blijft privé.
+Audio en transcripties worden op je eigen Mac verwerkt. De app maakt verbinding voor het downloaden van het transcriptiemodel en voor updates. Deze repository bevat downloads en gebruikersinformatie; de losse broncode blijft privé.
 
 [Releasepagina en controlebestanden](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/latest)
