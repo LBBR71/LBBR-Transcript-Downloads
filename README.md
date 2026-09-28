@@ -1,29 +1,38 @@
 # LBBR Transcript voor Mac
 
-Maak transcripties en samenvattingen op je eigen Mac.
+Maak transcripties op je eigen Mac. Je opnames en teksten blijven lokaal.
 
-## Download versie 1.9.0
+## Download versie 1.10.0
 
-### [⬇ Download LBBR Transcript 1.9.0](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/download/v1.9.0/LBBR-Transcript-1.9.0.zip)
+### [⬇ Download LBBR Transcript 1.10.0](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/latest/download/LBBR-Transcript-1.10.0-macOS-Apple-Silicon.zip)
 
 Je hebt geen GitHub-account nodig. Deze link mag je doorsturen.
 
 1. Download en open de ZIP.
 2. Sleep **LBBR Transcript.app** naar **Apps**.
-3. Open de app vanuit Apps. Bij het eerste gebruik download je de benodigde lokale modellen.
+3. Open de app vanuit Apps. Bij het eerste gebruik download je het lokale transcriptiemodel.
 
 **Voor Mac met Apple Silicon (M1 of nieuwer), macOS 14 of nieuwer. Niet geschikt voor Intel-Macs.**
 
-Deze proefversie is nog niet door Apple genotariseerd. macOS kan het openen blokkeren of om bevestiging vragen. De link downloadt het installatiebestand; automatisch installeren zonder bevestiging wordt niet beloofd.
+Versie 1.10.0 is ondertekend met Developer ID van Sander Lubberhuizen en door Apple genotariseerd. macOS accepteert de app als Notarized Developer ID.
 
-## Updates
+## Nieuw in 1.10.0
 
-Kies **LBBR Transcript → Zoeken naar updates…** in de menubalk. Deze openbare editie heeft geen GitHub-toegangscode nodig. Je bibliotheek en gedownloade modellen blijven bewaard bij het vervangen van de app.
+- Opnemen legt altijd het Mac-geluid en je microfoon tegelijk vast.
+- De keuze voor een opnamebron is verwijderd.
+- Er wordt geen echoverwerking toegepast.
+- De samenvattingsfunctie en het bijbehorende model zijn verwijderd.
+- **Opname toevoegen** en **Opname starten** staan samen op het beginscherm.
+- De linkerzijbalk is alleen nog bedoeld voor zoeken, projecten en bestaande opnames.
 
-Had je de eerdere privé-editie van 1.9.0? Download deze openbare editie eenmalig via de knop hierboven. Hij draagt dezelfde naam en hetzelfde zichtbare versienummer; het interne buildnummer is 15.
+## Updates en bestaande gegevens
+
+Download voor versie 1.10.0 de ZIP hierboven en vervang de app in Apps. Je bibliotheek, bestaande transcripties en het gedownloade transcriptiemodel blijven bewaard wanneer je de app vervangt.
+
+De ingebouwde updatefunctie voor deze release wacht nog op de bestaande Sparkle-ondertekensleutel. Gebruik voorlopig de directe download.
 
 ## Privacy
 
-Audio, transcripties en samenvattingen worden op je eigen Mac verwerkt. De app maakt verbinding voor modeldownloads en het controleren/downloaden van updates. Dit project bevat alleen downloads en gebruikersinformatie. De ontwikkelrepository en de losse broncode blijven privé.
+Audio en transcripties worden op je eigen Mac verwerkt. De app maakt alleen verbinding voor het downloaden van het transcriptiemodel en voor het controleren en downloaden van updates. Dit project bevat downloads en gebruikersinformatie. De ontwikkelrepository en losse broncode blijven privé.
 
-[Alle downloads en installatie-uitleg](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/latest)
+[Alle releases en installatie-uitleg](https://github.com/LBBR71/LBBR-Transcript-Downloads/releases/latest)
